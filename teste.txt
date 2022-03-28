@@ -1,1 +1,2 @@
 arquivo de teste para aula de git
+essa linha faz parte da segunda versão do arquivo
