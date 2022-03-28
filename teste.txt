@@ -1,2 +1,3 @@
 arquivo de teste para aula de git
 essa linha faz parte da segunda versão do arquivo
+essa linha faz parte da primeira versão da branch staging
